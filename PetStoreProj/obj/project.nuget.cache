@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SmYer0gGfXjqF2z6B4V4y+q+uJliKDuVgMe/E4TDgcf7pqgNt9AgjM0+MzXuE3CN2HYsuBur/9+6fZf6rpr9wg==",
+  "success": true,
+  "projectFilePath": "/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/PetStoreProj.csproj",
+  "expectedPackageFiles": [
+    "/Users/hunteraustin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/hunteraustin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512",
+    "/Users/hunteraustin/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

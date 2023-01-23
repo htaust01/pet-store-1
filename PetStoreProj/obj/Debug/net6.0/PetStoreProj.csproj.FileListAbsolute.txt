@@ -1,0 +1,15 @@
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/bin/Debug/net6.0/PetStoreProj
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/bin/Debug/net6.0/PetStoreProj.deps.json
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/bin/Debug/net6.0/PetStoreProj.runtimeconfig.json
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/bin/Debug/net6.0/PetStoreProj.dll
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/bin/Debug/net6.0/PetStoreProj.pdb
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/PetStoreProj.csproj.AssemblyReference.cache
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/PetStoreProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/PetStoreProj.AssemblyInfoInputs.cache
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/PetStoreProj.AssemblyInfo.cs
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/PetStoreProj.csproj.CoreCompileInputs.cache
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/PetStoreProj.dll
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/refint/PetStoreProj.dll
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/PetStoreProj.pdb
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/PetStoreProj.genruntimeconfig.cache
+/Users/hunteraustin/code-louisville/software-dev1/PetStoreSol/PetStoreProj/obj/Debug/net6.0/ref/PetStoreProj.dll
