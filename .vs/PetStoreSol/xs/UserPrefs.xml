@@ -1,10 +1,17 @@
 ﻿<Properties StartupConfiguration="{6D202C64-D26B-4C6A-8697-8EECDA5BFAC2}|Default">
+  <MonoDevelop.Ide.ItemProperties.PetStoreProj PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="PetStoreProj/Program.cs">
     <Files>
-      <File FileName="PetStoreProj/Program.cs" Line="37" Column="36" />
-      <File FileName="PetStoreProj/EmptyClass.cs" Line="13" Column="41" />
-      <File FileName="PetStoreProj/EmptyClass.cs" Line="9" Column="38" />
-      <File FileName="PetStoreProj/DogLeash.cs" Line="9" Column="38" />
+      <File FileName="PetStoreProj/Program.cs" Line="25" Column="46" />
+      <File FileName="PetStoreProj/Product.cs" Line="37" Column="6" />
+      <File FileName="PetStoreProj/CatFood.cs" Line="2" Column="23" />
+      <File FileName="PetStoreProj/DogLeash.cs" Line="25" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,11 +28,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.PetStoreProj PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
